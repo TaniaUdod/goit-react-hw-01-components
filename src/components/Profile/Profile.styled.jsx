@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const ProfileContainer = styled.div`
     width: 380px;
-    margin: 50px auto;
+    margin: 70px auto;
     padding: 60px 50px;
     background-color: #cedce0;
     text-align: center;
@@ -70,6 +70,7 @@ export const Label = styled.span`
     justify-content: center;
     font-size: 16px;
     color: #9b9a9a;
+    margin-bottom: 5px;
 `;
 
 export const Quantity = styled.span`
