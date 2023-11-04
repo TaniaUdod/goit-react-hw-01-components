@@ -41,5 +41,5 @@ export const Profile = ({
                 </ListItem>
             </StatsList>
         </ProfileContainer>
-    )
+    );
 };

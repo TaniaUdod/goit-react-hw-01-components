@@ -51,5 +51,4 @@ export const Label = styled.span`
 export const Percentage = styled.span`
     color: #ffffff;
     font-size: 20px;
-    /* font-weight: 700; */
 `;
